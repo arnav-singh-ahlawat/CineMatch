@@ -24,9 +24,9 @@ https://github.com/arnav-singh-ahlawat/CineMatch/assets/159664776/3bd16d1b-2154-
 
 **Prerequisites:** Ensure you have Python installed on your machine. You'll also need to install the necessary libraries. You can do this by running "pip install -r requirements.txt".
 
-**Cloning the Repository** Clone the repository by using the git command - "git clone https://github.com/arnav-singh-ahlawat/CineMatch.git" in your project directory.
+Clone the repository by using the git command - "git clone https://github.com/arnav-singh-ahlawat/CineMatch.git" in your project directory.
 
-**Downloading and Initializing Large Files** The similarity.pkl file, which is over 100MB in size, needs to be handled with Git Large File Storage (LFS). Initialize Git LFS in your project directory or download the file manually:
+**Downloading and Initializing Large Files:** The similarity.pkl file, which is over 100MB in size, needs to be handled with Git Large File Storage (LFS). Initialize Git LFS in your project directory or download the file manually:
 
 1. Initialize Git LFS:
 
